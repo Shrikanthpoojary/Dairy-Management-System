@@ -1,0 +1,8 @@
+s1|manu|9876543210|Farm_Manager$
+s2|ranju|8987654321|Asst_Manager$
+*3|shri|7890654321|Farm_Worker$
+*3|Shri|0987654321|Farm_worker$
+*3|Shri|4567890123|Farm_worker$
+s3|Shri|9876543210|Farm_worker$
+*4|Hari|7816745854|Farm_Worker$
+s4|Hari|0987654321|Farm_Worker$

@@ -1,0 +1,9 @@
+c1|jersy|available|76500$
+c2|Brown_swiss|56700|76544$
+c3|hariyan|available|67500$
+*4|brahman|available|58900$
+*4|brahman|Sold|58900$
+*4|brahman|Sold|60000$
+*4|brahman|Sold|61000$
+*4|brahman|Sold|60$
+c4|brahman|Sold|60000$
